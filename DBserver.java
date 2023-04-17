@@ -9,3 +9,5 @@ Horse
 Jelly Fish
 Cat
 Dog
+update
+log
